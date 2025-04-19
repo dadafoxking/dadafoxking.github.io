@@ -1,0 +1,5 @@
+baseURL = 'https://dadafoxking.github.io/'
+languageCode = 'en-us'
+title = 'My Intro'
+theme = 'ananke'
+publishDir = "docs"
