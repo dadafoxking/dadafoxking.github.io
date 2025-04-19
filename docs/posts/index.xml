@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My Intro</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 15:19:52 +0200</lastBuildDate>
     <atom:link href="https://dadafoxking.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://dadafoxking.github.io/posts/hugo/</link>
+      <pubDate>Sat, 19 Apr 2025 15:19:52 +0200</pubDate>
+      <guid>https://dadafoxking.github.io/posts/hugo/</guid>
+      <description>&lt;p&gt;My second post&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://dadafoxking.github.io/posts/my-first-post/</link>
